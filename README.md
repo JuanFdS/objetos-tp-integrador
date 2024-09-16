@@ -15,6 +15,7 @@ El TP debe:
 # Como correrlo
 
 Con la extensión de VSCode, pararse sobre el program y correr `Run Game`
+
 ![image](https://github.com/user-attachments/assets/532b04d4-dca8-4887-aa47-a3c631b42568)
 
 
